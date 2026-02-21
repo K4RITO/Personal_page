@@ -19,7 +19,7 @@ body {
     padding: 20px;
 }
 
-header {
+body > header {
     background-color: var(--background-article);
     margin: 20px;
     padding: 20px;
